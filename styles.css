@@ -8,8 +8,19 @@ a {
   color: #ffffff;
 }
 
-footer a {
-  color: #ffffff;
+footer ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  gap: 15px;
+}
+
+footer ul li {
+  display: inline-block;
+}
+
+footer ul li a {
+  font-size: 24px;
 }
 
 h1, p {
