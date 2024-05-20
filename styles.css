@@ -8,10 +8,21 @@ a {
   color: #ffffff;
 }
 
+footer {
+  text-align: center;
+  background-color: #708090;
+  padding: 20px;
+}
+
+footer p {
+  margin: 10px 0;
+}
+
 footer ul {
   list-style-type: none;
   padding: 0;
   display: flex;
+  justify-content: center;
   gap: 15px;
 }
 
@@ -20,7 +31,7 @@ footer ul li {
 }
 
 footer ul li a {
-  font-size: 64px;
+  font-size: 50px;
 }
 
 h1, p {
