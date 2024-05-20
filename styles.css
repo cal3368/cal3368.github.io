@@ -2,3 +2,15 @@ body {
   background-color: #4682B4;
   color: #ffffff;
 }
+
+a {
+  color: #ffffff;
+}
+
+footer a {
+  color: #ffffff;
+}
+
+h1, p {
+  color: #ffffff;
+}
